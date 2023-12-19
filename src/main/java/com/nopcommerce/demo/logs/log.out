@@ -1,0 +1,205 @@
+2023-12-17 23:12:175 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (0a41cc9e2c294a3a7ca0ebdfa1387e58)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-17 23:12:238 INFO  RegisterPage :83 - Getting Register Text
+2023-12-17 23:12:140 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (37694714fe55aa0518dac65795c8e121)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-17 23:12:684 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (37694714fe55aa0518dac65795c8e121)] -> link text: Desktops]
+2023-12-17 23:12:699 INFO  RegisterPage :83 - Getting Register Text
+2023-12-17 23:12:898 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (af37d176c55945815b6c8c06db0b7cdc)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-17 23:12:434 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (af37d176c55945815b6c8c06db0b7cdc)] -> link text: Desktops]
+2023-12-17 23:12:415 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (af37d176c55945815b6c8c06db0b7cdc)] -> link text: Software]
+2023-12-17 23:12:430 INFO  BuildYourOwnComputerPage :43 - Select Processor in Processor dropdown
+2023-12-17 23:12:594 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (6ffaf853fc4e7e0724b95e7067feb9f4)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-17 23:12:217 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (6ffaf853fc4e7e0724b95e7067feb9f4)] -> link text: Desktops]
+2023-12-17 23:12:740 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (6ffaf853fc4e7e0724b95e7067feb9f4)] -> link text: Software]
+2023-12-17 23:12:938 INFO  BuildYourOwnComputerPage :43 - Select Processor in Processor dropdown
+2023-12-17 23:12:32 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (55c95bcd96800d2d52b53e5a4e69d363)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-17 23:12:856 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (55c95bcd96800d2d52b53e5a4e69d363)] -> link text: Desktops]
+2023-12-17 23:12:793 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (55c95bcd96800d2d52b53e5a4e69d363)] -> link text: Software]
+2023-12-17 23:12:809 INFO  BuildYourOwnComputerPage :43 - Select Processor in Processor dropdown
+2023-12-17 23:12:250 INFO  HomePage :56 - Clicking on login link : [[ChromeDriver: chrome on windows (a97846ec8a6b50ebf97e95ece65ae16b)] -> xpath: //a[contains(text(),'Log in')]]
+2023-12-17 23:12:645 INFO  LoginPage :67 - errorProxy element for: DefaultElementLocator 'By.xpath: //div[@class='message-error validation-summary-errors']'
+2023-12-17 23:12:489 INFO  HomePage :56 - Clicking on login link : [[ChromeDriver: chrome on windows (7f814a527d8186b5fe48ef1fa47a9e4d)] -> xpath: //a[contains(text(),'Log in')]]
+2023-12-17 23:12:637 INFO  LoginPage :51 - email [[ChromeDriver: chrome on windows (7f814a527d8186b5fe48ef1fa47a9e4d)] -> id: Email]
+2023-12-17 23:12:799 INFO  LoginPage :57 - passward[[ChromeDriver: chrome on windows (7f814a527d8186b5fe48ef1fa47a9e4d)] -> name: Password]
+2023-12-17 23:12:147 INFO  LoginPage :63 - login[[ChromeDriver: chrome on windows (7f814a527d8186b5fe48ef1fa47a9e4d)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:273 INFO  HomePage :56 - Clicking on login link : [[ChromeDriver: chrome on windows (1ba811b40e268f0bd7d2fc70737e0c69)] -> xpath: //a[contains(text(),'Log in')]]
+2023-12-17 23:12:402 INFO  LoginPage :51 - email [[ChromeDriver: chrome on windows (1ba811b40e268f0bd7d2fc70737e0c69)] -> id: Email]
+2023-12-17 23:12:506 INFO  LoginPage :57 - passward[[ChromeDriver: chrome on windows (1ba811b40e268f0bd7d2fc70737e0c69)] -> name: Password]
+2023-12-17 23:12:863 INFO  LoginPage :63 - login[[ChromeDriver: chrome on windows (1ba811b40e268f0bd7d2fc70737e0c69)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:313 INFO  HomePage :56 - Clicking on login link : [[ChromeDriver: chrome on windows (b4a7777e7aecf5e8193641cac6f4af03)] -> xpath: //a[contains(text(),'Log in')]]
+2023-12-17 23:12:457 INFO  LoginPage :51 - email [[ChromeDriver: chrome on windows (b4a7777e7aecf5e8193641cac6f4af03)] -> id: Email]
+2023-12-17 23:12:589 INFO  LoginPage :57 - passward[[ChromeDriver: chrome on windows (b4a7777e7aecf5e8193641cac6f4af03)] -> name: Password]
+2023-12-17 23:12:999 INFO  LoginPage :63 - login[[ChromeDriver: chrome on windows (b4a7777e7aecf5e8193641cac6f4af03)] -> xpath: //button[contains(text(),'Log in')]]
+2023-12-17 23:12:409 INFO  LoginPage :84 - Clicking on Logout ButtonProxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2023-12-17 23:12:445 INFO  HomePage :61 - Clicking on register link : [[ChromeDriver: chrome on windows (fa7bcdf11aacf8ad054a4effe7a128c4)] -> link text: Register]
+2023-12-17 23:12:459 INFO  RegisterPage :83 - Getting Register Text
+2023-12-17 23:12:788 INFO  HomePage :61 - Clicking on register link : [[ChromeDriver: chrome on windows (45a2e31c2f2819a940fc82b66fffa2cf)] -> link text: Register]
+2023-12-17 23:12:833 INFO  RegisterPage :87 - Clicking on Register Button[[ChromeDriver: chrome on windows (45a2e31c2f2819a940fc82b66fffa2cf)] -> id: register-button]
+2023-12-17 23:12:944 INFO  RegisterPage :92 - Getting First name is required Message
+2023-12-17 23:12:319 INFO  HomePage :61 - Clicking on register link : [[ChromeDriver: chrome on windows (091197aa5e2e7c433c94bbf2c6601339)] -> link text: Register]
+2023-12-17 23:12:341 INFO  RegisterPage :115 - Click on radio button in Female
+2023-12-17 23:12:465 INFO  RegisterPage :123 - Send text in last name field
+2023-12-17 23:12:596 INFO  RegisterPage :123 - Send text in last name field
+2023-12-17 23:12:666 INFO  RegisterPage :127 - Select day in Day dropdown
+2023-12-17 23:12:860 INFO  RegisterPage :131 - Select day in Month dropdown
+2023-12-17 23:12:997 INFO  RegisterPage :135 - Select day in Year dropdown
+2023-12-17 23:12:139 INFO  RegisterPage :139 - Send text in email field
+2023-12-17 23:12:251 INFO  RegisterPage :143 - Send text in password field
+2023-12-17 23:12:354 INFO  RegisterPage :147 - Send text in confirm password field
+2023-12-17 23:12:457 INFO  RegisterPage :87 - Clicking on Register Button[[ChromeDriver: chrome on windows (091197aa5e2e7c433c94bbf2c6601339)] -> id: register-button]
+2023-12-17 23:12:529 INFO  RegisterPage :151 - Getting Your registration completed Text
+2023-12-18 02:12:646 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:137 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:557 INFO  LoginPage :48 - Enter EmailId 'primenewtester@gmail.com' to email field : 
+2023-12-18 02:12:637 INFO  LoginPage :55 - Enter Password 'prime1' to password field : 
+2023-12-18 02:12:912 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:484 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:952 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-18 02:12:34 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-18 02:12:341 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:893 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:294 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-18 02:12:369 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-18 02:12:670 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:715 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:519 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:916 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-18 02:12:922 INFO  RegisterPage :207 - Getting First name is required Message
+2023-12-18 02:12:881 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:249 INFO  RegisterPage :115 - Select 'Female' radio button
+2023-12-18 02:12:355 INFO  RegisterPage :125 - Enter Firstname : 'Sheldon' to firstName field
+2023-12-18 02:12:416 INFO  RegisterPage :131 - Enter Lastname : 'Cooper' to lastName field
+2023-12-18 02:12:506 INFO  RegisterPage :137 - Select day : '1'' for DayOfBirth
+2023-12-18 02:12:578 INFO  RegisterPage :143 - Select month : 'January'' for DayOfBirth
+2023-12-18 02:12:645 INFO  RegisterPage :149 - Select year : '1980'' for YearOfBirth
+2023-12-18 02:12:702 INFO  RegisterPage :157 - Enter Email : 'sheldoncooper@gmail.com' to email field
+2023-12-18 02:12:761 INFO  RegisterPage :163 - Enter Password : 'sheldoncooper' to password field
+2023-12-18 02:12:817 INFO  RegisterPage :169 - Enter Confirm password : 'sheldoncooper' to confirm password field
+2023-12-18 02:12:313 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-18 02:12:317 INFO  RegisterPage :98 - Getting Your registration completed Text
+2023-12-18 02:12:833 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (490376a7aedd30cce5830548b282f3c1)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-18 02:12:353 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (c0e8ed05bae80b015d81538938939e7d)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-18 02:12:735 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (c0e8ed05bae80b015d81538938939e7d)] -> link text: Desktops]
+2023-12-18 02:12:396 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (7d215b092694ad323d7447f3b3f1c4da)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-18 02:12:777 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (7d215b092694ad323d7447f3b3f1c4da)] -> link text: Desktops]
+2023-12-18 02:12:670 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (7d215b092694ad323d7447f3b3f1c4da)] -> link text: Software]
+2023-12-18 02:12:673 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (4daf45f8c6bb7946401720efb3f2c2e2)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-18 02:12:64 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (4daf45f8c6bb7946401720efb3f2c2e2)] -> link text: Desktops]
+2023-12-18 02:12:982 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (4daf45f8c6bb7946401720efb3f2c2e2)] -> link text: Software]
+2023-12-18 02:12:598 INFO  ComputerPage :39 - Computers[[ChromeDriver: chrome on windows (3e1109933e4032ff5671208a4e04f1e7)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-18 02:12:988 INFO  ComputerPage :45 - Desktops[[ChromeDriver: chrome on windows (3e1109933e4032ff5671208a4e04f1e7)] -> link text: Desktops]
+2023-12-18 02:12:910 INFO  ComputerPage :56 - Software[[ChromeDriver: chrome on windows (3e1109933e4032ff5671208a4e04f1e7)] -> link text: Software]
+2023-12-18 02:12:928 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:63 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:501 INFO  LoginPage :48 - Enter EmailId 'primenewtester@gmail.com' to email field : 
+2023-12-18 02:12:603 INFO  LoginPage :55 - Enter Password 'prime1' to password field : 
+2023-12-18 02:12:884 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:490 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:898 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-18 02:12:977 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-18 02:12:245 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:838 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-18 02:12:239 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-18 02:12:322 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-18 02:12:594 INFO  LoginPage :62 - Click on loginButton
+2023-12-18 02:12:90 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:854 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:254 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-18 02:12:259 INFO  RegisterPage :207 - Getting First name is required Message
+2023-12-18 02:12:905 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-18 02:12:679 INFO  RegisterPage :115 - Select 'Female' radio button
+2023-12-18 02:12:773 INFO  RegisterPage :125 - Enter Firstname : 'Sheldon' to firstName field
+2023-12-18 02:12:825 INFO  RegisterPage :131 - Enter Lastname : 'Cooper' to lastName field
+2023-12-18 02:12:913 INFO  RegisterPage :137 - Select day : '1'' for DayOfBirth
+2023-12-18 02:12:980 INFO  RegisterPage :143 - Select month : 'January'' for DayOfBirth
+2023-12-18 02:12:46 INFO  RegisterPage :149 - Select year : '1980'' for YearOfBirth
+2023-12-18 02:12:105 INFO  RegisterPage :157 - Enter Email : 'sheldoncooper@gmail.com' to email field
+2023-12-18 02:12:160 INFO  RegisterPage :163 - Enter Password : 'sheldoncooper' to password field
+2023-12-18 02:12:221 INFO  RegisterPage :169 - Enter Confirm password : 'sheldoncooper' to confirm password field
+2023-12-18 02:12:489 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-18 02:12:492 INFO  RegisterPage :98 - Getting Your registration completed Text
+2023-12-19 16:12:169 INFO  ComputerPage :42 - Computers[[ChromeDriver: chrome on windows (927211c9a88fead875cd9e3391268942)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:192 INFO  ComputerPage :64 - Click on Computers Tab
+2023-12-19 16:12:567 INFO  ComputerPage :42 - Computers[[ChromeDriver: chrome on windows (cbe556b24e5458b57cecd74fb3cdeaa9)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:988 INFO  ComputerPage :48 - Desktops[[ChromeDriver: chrome on windows (cbe556b24e5458b57cecd74fb3cdeaa9)] -> link text: Desktops]
+2023-12-19 16:12:06 INFO  DesktopsPage :76 - Verify Desktops Text
+2023-12-19 16:12:170 INFO  ComputerPage :42 - Computers[[ChromeDriver: chrome on windows (6036d9e26234c64fa0db87dc50db0627)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:589 INFO  ComputerPage :48 - Desktops[[ChromeDriver: chrome on windows (6036d9e26234c64fa0db87dc50db0627)] -> link text: Desktops]
+2023-12-19 16:12:700 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (6036d9e26234c64fa0db87dc50db0627)] -> link text: Software]
+2023-12-19 16:12:969 INFO  ComputerPage :42 - Computers[[ChromeDriver: chrome on windows (c31121e0197b78f9727440546c7a11f7)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:408 INFO  ComputerPage :48 - Desktops[[ChromeDriver: chrome on windows (c31121e0197b78f9727440546c7a11f7)] -> link text: Desktops]
+2023-12-19 16:12:830 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (c31121e0197b78f9727440546c7a11f7)] -> link text: Software]
+2023-12-19 16:12:64 INFO  ComputerPage :42 - Computers[[ChromeDriver: chrome on windows (d853ae79e1b7fe2a8d55e0f81fe46738)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:555 INFO  ComputerPage :48 - Desktops[[ChromeDriver: chrome on windows (d853ae79e1b7fe2a8d55e0f81fe46738)] -> link text: Desktops]
+2023-12-19 16:12:976 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (d853ae79e1b7fe2a8d55e0f81fe46738)] -> link text: Software]
+2023-12-19 16:12:181 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:552 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:207 INFO  LoginPage :48 - Enter EmailId 'primenewtester@gmail.com' to email field : 
+2023-12-19 16:12:362 INFO  LoginPage :55 - Enter Password 'prime1' to password field : 
+2023-12-19 16:12:706 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:898 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:518 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-19 16:12:662 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-19 16:12:15 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:329 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:906 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-19 16:12:14 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-19 16:12:321 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:87 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:746 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:279 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-19 16:12:285 INFO  RegisterPage :207 - Getting First name is required Message
+2023-12-19 16:12:803 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:308 INFO  RegisterPage :115 - Select 'Female' radio button
+2023-12-19 16:12:477 INFO  RegisterPage :125 - Enter Firstname : 'Sheldon' to firstName field
+2023-12-19 16:12:550 INFO  RegisterPage :131 - Enter Lastname : 'Cooper' to lastName field
+2023-12-19 16:12:697 INFO  RegisterPage :137 - Select day : '1'' for DayOfBirth
+2023-12-19 16:12:854 INFO  RegisterPage :143 - Select month : 'January'' for DayOfBirth
+2023-12-19 16:12:08 INFO  RegisterPage :149 - Select year : '1980'' for YearOfBirth
+2023-12-19 16:12:115 INFO  RegisterPage :157 - Enter Email : 'sheldoncooper@gmail.com' to email field
+2023-12-19 16:12:197 INFO  RegisterPage :163 - Enter Password : 'sheldoncooper' to password field
+2023-12-19 16:12:305 INFO  RegisterPage :169 - Enter Confirm password : 'sheldoncooper' to confirm password field
+2023-12-19 16:12:871 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-19 16:12:876 INFO  RegisterPage :98 - Getting Your registration completed Text
+2023-12-19 16:12:541 INFO  ComputerPage :42 - Computer[[ChromeDriver: chrome on windows (c3ba8ead73f449c3234b9cec33030adf)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:554 INFO  ComputerPage :64 - Click on Computers Tab
+2023-12-19 16:12:660 INFO  ComputerPage :42 - Computer[[ChromeDriver: chrome on windows (63efcc6d9f4a6ee14740824b5ae6b7d3)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:304 INFO  ComputerPage :48 - Desktop[[ChromeDriver: chrome on windows (63efcc6d9f4a6ee14740824b5ae6b7d3)] -> link text: Desktops]
+2023-12-19 16:12:317 INFO  DesktopsPage :76 - Verify Desktops Text
+2023-12-19 16:12:258 INFO  ComputerPage :42 - Computer[[ChromeDriver: chrome on windows (e47fcdcca40e5ef9349e43b4aecb3079)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:700 INFO  ComputerPage :48 - Desktop[[ChromeDriver: chrome on windows (e47fcdcca40e5ef9349e43b4aecb3079)] -> link text: Desktops]
+2023-12-19 16:12:680 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (e47fcdcca40e5ef9349e43b4aecb3079)] -> link text: Software]
+2023-12-19 16:12:446 INFO  ComputerPage :42 - Computer[[ChromeDriver: chrome on windows (2192c68bc5813e318c8489dd1731b685)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:58 INFO  ComputerPage :48 - Desktop[[ChromeDriver: chrome on windows (2192c68bc5813e318c8489dd1731b685)] -> link text: Desktops]
+2023-12-19 16:12:838 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (2192c68bc5813e318c8489dd1731b685)] -> link text: Software]
+2023-12-19 16:12:49 INFO  ComputerPage :42 - Computer[[ChromeDriver: chrome on windows (11e736129a4c1e3ec6ad92e8fa021451)] -> xpath: //ul[@class='top-menu notmobile']//a[normalize-space()='Computers']]
+2023-12-19 16:12:738 INFO  ComputerPage :48 - Desktop[[ChromeDriver: chrome on windows (11e736129a4c1e3ec6ad92e8fa021451)] -> link text: Desktops]
+2023-12-19 16:12:439 INFO  ComputerPage :59 - Software[[ChromeDriver: chrome on windows (11e736129a4c1e3ec6ad92e8fa021451)] -> link text: Software]
+2023-12-19 16:12:367 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:872 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:845 INFO  LoginPage :48 - Enter EmailId 'primenewtester@gmail.com' to email field : 
+2023-12-19 16:12:934 INFO  LoginPage :55 - Enter Password 'prime1' to password field : 
+2023-12-19 16:12:519 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:837 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:810 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-19 16:12:897 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-19 16:12:423 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:420 INFO  HomePage :46 - Click on loginLink : Log in
+2023-12-19 16:12:28 INFO  LoginPage :48 - Enter EmailId 'primedatatester@gmail.com' to email field : 
+2023-12-19 16:12:112 INFO  LoginPage :55 - Enter Password 'prime123' to password field : 
+2023-12-19 16:12:432 INFO  LoginPage :62 - Click on loginButton
+2023-12-19 16:12:990 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:357 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:953 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-19 16:12:958 INFO  RegisterPage :207 - Getting First name is required Message
+2023-12-19 16:12:244 INFO  HomePage :59 - Click on registerLink : Register
+2023-12-19 16:12:707 INFO  RegisterPage :115 - Select 'Female' radio button
+2023-12-19 16:12:943 INFO  RegisterPage :125 - Enter Firstname : 'Sheldon' to firstName field
+2023-12-19 16:12:54 INFO  RegisterPage :131 - Enter Lastname : 'Cooper' to lastName field
+2023-12-19 16:12:650 INFO  RegisterPage :137 - Select day : '1'' for DayOfBirth
+2023-12-19 16:12:805 INFO  RegisterPage :143 - Select month : 'January'' for DayOfBirth
+2023-12-19 16:12:923 INFO  RegisterPage :149 - Select year : '1980'' for YearOfBirth
+2023-12-19 16:12:44 INFO  RegisterPage :157 - Enter Email : 'sheldoncooper@gmail.com' to email field
+2023-12-19 16:12:150 INFO  RegisterPage :163 - Enter Password : 'sheldoncooper' to password field
+2023-12-19 16:12:237 INFO  RegisterPage :169 - Enter Confirm password : 'sheldoncooper' to confirm password field
+2023-12-19 16:12:557 INFO  RegisterPage :176 - Click on 'REGISTER' button
+2023-12-19 16:12:560 INFO  RegisterPage :98 - Getting Your registration completed Text
